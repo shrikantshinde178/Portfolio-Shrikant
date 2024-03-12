@@ -1,10 +1,10 @@
-# Portfolio-Shrikant# Portfolio
+### Portfolio-Shrikant
 
 Welcome to my portfolio repository! This repository serves as a showcase of my Resume, skills, experience, and projects as a Full Stack Developer specializing in Java programming language.
 
 ## Purpose
 
-This README.md file provides an overview of the contents and structure of this portfolio repository.
+This README.Md file provides an overview of the contents and structure of this portfolio repository(Resume).
 
 ## Contains
 
